@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Prashasak Samiti Website",
+      "url": "https://www.prashasaksamiti.com",
+      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos-bootstrap"
+        },
+        {
+          "name": "Blogger",
+          "iconifyClass": "logos-blogger"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Automated Email Sender",
+      "url": "https://github.com/Prabhat708/AUTOMATED-EMAIL-SENDER",
+      "description": "PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Weather Forecast Website",
+      "url": "https://prabhat708.github.io/Weather-Forecast-Website/",
+      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "simple-icons:bootstrap"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Face Authentication Script",
+      "url": "https://github.com/Prabhat708/BIOMETRIC-AUTHETICATION-SYSTEM",
+      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Fruitswallah - An E-Commerce Website",
+      "url": "https://github.com/prabhat708",
+      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos-django"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Prabhavi AI",
+      "url": "https://vishal368-singh.github.io/PrabhaVi-AI/",
+      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React Js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node Js",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "crmbckend",
+      "name": "CRM Backend",
+      "url": "https://github.com/prabhat708",
+      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Node Js",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    }
+  ]
+}

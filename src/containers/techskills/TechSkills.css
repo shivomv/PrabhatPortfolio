@@ -1,0 +1,92 @@
+.tech-skills-container {
+  padding: 2rem;
+}
+
+.tech-skills-heading {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.tech-skills-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .tech-skills-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .tech-skills-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.tech-skill-card {
+  display: flex;
+  flex-direction: column;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 1rem;
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.tech-skill-card:hover {
+  transform: translateY(-5px);
+}
+
+.tech-skill-name {
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  color: inherit;
+}
+
+.tech-progress-bar {
+  height: 24px;
+  background-color: #eee;
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+}
+
+.tech-progress {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 0.85rem;
+  color: #fff;
+  border-radius: 12px;
+  transition: width 1s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
+
+.tech-progress::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+  background: var(--bar-gradient);
+  border-radius: 12px;
+}
+
+.progress-label {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  text-align: center;
+}
